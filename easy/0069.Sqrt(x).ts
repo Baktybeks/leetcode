@@ -24,6 +24,5 @@ console.log(mySqrt(4));
 //       right = mid - 1;
 //     }
 //   }
-
 //   return ans;
 // }
